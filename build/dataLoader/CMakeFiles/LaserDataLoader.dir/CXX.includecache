@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/stepan/Google Drive/Kastanovo/Škola/Mag/3. sem/MKR/SEM03/mkr2016_pf/dataLoader/laserDataLoader.cpp
+laserDataLoader.h
+/home/stepan/Google Drive/Kastanovo/Škola/Mag/3. sem/MKR/SEM03/mkr2016_pf/dataLoader/laserDataLoader.h
+fstream
+-
+sstream
+-
+cstdlib
+-
+iostream
+-
+
+/home/stepan/Google Drive/Kastanovo/Škola/Mag/3. sem/MKR/SEM03/mkr2016_pf/dataLoader/laserDataLoader.h
+vector
+-
+string
+-
+
